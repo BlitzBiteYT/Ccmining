@@ -1,89 +1,20 @@
 {
 	"pools":[
 	{
-		"name": "vipor",
-        	"url": "stratum+tcp://fr.vipor.net:5040",
+		"name": "LuckPool",
+        	"url": "stratum+tcp://eu.luckpool.net:3956",
 		"timeout": 150
 	},
 	{
-		"name": "vipor2",
-        	"url": "stratum+tcp://fi.vipor.net:5040",
+		"name": "LuckPoolFailover1",
+        	"url": "stratum+tcp://na.luckpool.net:3956",
 		"timeout": 150
 	},
 	{
-		"name": "vipor3",
-        	"url": "stratum+tcp://pl.vipor.net:5040",
+		"name": "LuckPoolFailover2",
+        	"url": "stratum+tcp://ap.luckpool.net:3956",
 		"timeout": 150
 	}
-	{
-		"name": "vipor4",
-		"url": "startum+tcp://de.vipor.net:5040",
-		"timeout": 150
-	}
-	{
-		"name": "vipor5",
-		"url": "startum+tcp://ca.vipor.net:5040",
-		"timeout": 150
-	}
-	{
-		"name": "vipor6",
-		"url": "startum+tcp://usw.vipor.net:5040",
-		"timeout": 150
-	}
-	{
-		"name": "vipor7",
-		"url": "startum+tcp://usse.vipor.net:5040",
-		"timeout": 150
-	}
-	{
-		"name": "vipor8",
-		"url": "startum+tcp://us.vipor.net:5040",
-		"timeout": 150
-	}
-	{
-		"name": "vipor9",
-		"url": "startum+tcp://kz.vipor.net:5040",
-		"timeout": 150
-	}
-	{
-		"name": "vipor10",
-		"url": "startum+tcp://sa.vipor.net:5040",
-		"timeout": 150
-	}
-	{
-		"name": "vipor11",
-		"url": "startum+tcp://tr.vipor.net:5040",
-		"timeout": 150
-	}
-	{
-		"name": "vipor12",
-		"url": "startum+tcp://ro.vipor.net:5040",
-		"timeout": 150
-	}
-	{
-		"name": "vipor13",
-		"url": "startum+tcp://ua.vipor.net:5040",
-		"timeout": 150
-	}
-	{
-		"name": "vipor14",
-		"url": "startum+tcp://ru.vipor.net:5040",
-		"timeout": 150
-	}
-	{
-		"name": "vipor15",
-		"url": "startum+tcp://sg.vipor.net:5040",
-		"timeout": 150
-	}
-	{
-		"name": "vipor16",
-		"url": "startum+tcp://cn.vipor.net:5040",
-		"timeout": 150
-	}
-	{
-		"name": "vipor17",
-		"url": "startum+tcp://ap.vipor.net:5040",
-		"timeout": 150
 	],
 	"user": "R9WiRQ6hwsiEVXsb7tX85Q6uzcMq3YhJjA.PHONE_FARM",
 	"pass": "x",
